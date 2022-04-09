@@ -1,0 +1,12 @@
+{
+  "name": "diverse-chain-poa",
+  "version": "1.0.0",
+  "description": "Signer Account  - 0x329fD3c25C638edAdeE189862d87A9F6c9476f92",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
