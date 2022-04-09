@@ -4,6 +4,9 @@
   "description": "Signer Account  - 0x329fD3c25C638edAdeE189862d87A9F6c9476f92",
   "main": "index.js",
   "scripts": {
+    "create-account": "geth account new --datadir data",
+    "create-genesis-block": "geth init --datadir data genesis.json",
+    "start-chain": "geth --datadir data --networkid 1014",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
